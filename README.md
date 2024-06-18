@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <img align="right" alt="coding" width="330" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
