@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-<img align="right" alt="coding" width="330" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasindurkarr&label=Profile%20views&color=0e75b6&style=flat" alt="tejasindurkarr" /> </p>
 
