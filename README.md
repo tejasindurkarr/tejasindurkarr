@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure And Algorithms**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Android Development**
 
 
 
